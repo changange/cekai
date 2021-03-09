@@ -1,4 +1,4 @@
-package com.atany.gca.day07.Spring.denmo5;
+package com.atany.gca.day07.Spring.demo5;
 
 import org.springframework.stereotype.Component;
 
